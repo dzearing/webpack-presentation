@@ -1195,8 +1195,3 @@ The *analyse* tool draws a pretty graph of all the modules, and gives us all sor
 * Dedupe dependencies <!-- .element: class="fragment" -->
 * Loaders for every format <!-- .element: class="fragment" -->
 
-
-
-## Questions?
-
-<https://unindented.github.io/webpack-presentation/> <!-- .element: class="fragment" -->
